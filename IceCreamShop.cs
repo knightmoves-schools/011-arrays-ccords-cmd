@@ -1,5 +1,5 @@
 ﻿namespace knightmoves;
 public class IceCreamShop
 {
-public char IceCreamFlavors = {"chocolate", "vanilla", "twist"};
+public char[] IceCreamFlavors = {"chocolate", "vanilla", "twist"};
 }
